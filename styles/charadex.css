@@ -21,8 +21,8 @@ body {
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color:                  #939799;
-  --cd-secondary-text-color:             #fff;
+  --cd-secondary-color:                  #930021;
+  --cd-secondary-text-color:             #ED2267;
 
   /* ============================================================= */
   /* Backgrounds
@@ -37,8 +37,8 @@ body {
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color:                  #6e0e36;
-  --cd-faded-text-color:                 #5c0e2e;
+  --cd-body-text-color:                  #FF8135;
+  --cd-faded-text-color:                 #930021;
 
   /* ============================================================= */
   /* Borders
@@ -51,7 +51,7 @@ body {
   /* ============================================================= */
   /* Navbar
   ================================================================ */
-  --cd-navbar-background-color:          #222222;
+  --cd-navbar-background-color:          #1B0F10;
   --cd-navbar-brand-color:               var(--cd-primary-color);
   --cd-navbar-brand-color-hover:         var(--cd-secondary-color);
   --cd-navbar-text-color:                var(--cd-content-background-color);
