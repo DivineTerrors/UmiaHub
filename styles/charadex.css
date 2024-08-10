@@ -15,8 +15,8 @@ body {
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color:                    #8FB7D4;
-  --cd-primary-text-color:               #fff;
+  --cd-primary-color:                    #ED2267;
+  --cd-primary-text-color:               #930021;
 
   /* ============================================================= */
   /* Secondary Color
@@ -27,9 +27,9 @@ body {
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color:            #1d1c1f;
-  --cd-content-background-color:         #161517;
-  --cd-faded-background-color:           #151517;
+  --cd-body-background-color:            #1E1517;
+  --cd-content-background-color:         #120608;
+  --cd-faded-background-color:           #120608;
 
   /* Background Extras */
   --cd-body-background-image:             url();
